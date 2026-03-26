@@ -4,4 +4,4 @@ Pathology images are usually classified by morphology, but this approach does no
 In this study, we set a pipeline for the objective evaluation of distributions and test frameworks based on foundation models and topological data analysis. Our results suggest the effectiveness of topological information in enhancing performance when combined with foundation models.
 
 ### Supplementary Figures
-[Figures](figures/)
+Supplementary figures and legends can be found [here](figures/)
