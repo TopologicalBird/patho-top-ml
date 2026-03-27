@@ -10,5 +10,9 @@ Calculates patch image features based on topological data analysis.
 - PD0 and PD1 results carry connected component and 1-dim hole structures, respectively.
 - These are summarized into 1800 dimenional vector using persistence image.
 
+### Evaluation [evaluation.ipynb](codes/evaluations.ipynb)
+Evaluation of frameworks based on different feature extraction methods and combinations.
+
+
 ## Supplementary Figures
 Supplementary figures and legends can be found [here](figures/). 
