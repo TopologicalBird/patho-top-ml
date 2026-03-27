@@ -13,6 +13,13 @@ Calculates patch image features based on topological data analysis.
 ### [Evaluation.ipynb](codes/Evaluation.ipynb)
 Evaluation of frameworks based on different feature extraction methods and combinations.
 
+This code includes
+- Loading of the feature vectors
+- Calculation of logits with different train subset configurations
+- Dimensionality reduction with UMAP
+- Trustworthiness calculation for outputs with different train subset configurations
+- Pairwise trustworthiness calculation for outputs with different train subset configurations
+- Stable point selection using pairwise trustworthiness
 
 ## Supplementary Figures
 Supplementary figures and legends can be found [here](figures/). 
