@@ -1,4 +1,5 @@
 # Supplementary Figures
+Click images to view high resolution pdf.
 ## Trustworthiness for multiple neighborhood sizes
 [![trustworthiness.pdf](trustworthiness.jpg)](trustworthiness.pdf)
 
