@@ -25,5 +25,11 @@ This code includes
 - Pairwise trustworthiness calculation for outputs with different train subset configurations
 - Stable point selection using pairwise trustworthiness
 
-## Supplementary Figures
+## Supplementary Figures and Information
 Supplementary figures and legends can be found [here](figures/). 
+
+ToDO: Images are from TCGA. Resized to 256. Resolution...
+
+Some statistics. Label proportion. Train-val split...
+
+
