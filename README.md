@@ -37,7 +37,7 @@ Gastric cancer images are taken from [The Cancer Genome Atlas (TCGA)](https://ww
 At this pixel size, the image resolution is 1.76mpp.
 
 We use 7-class histological classifications (tub1, tub2, por1, por2, sig, muc, pap).
-<img width="1413" height="1097" alt="image" src="https://github.com/user-attachments/assets/ae965632-ef0c-421b-8baa-376558bd9501" />
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/ae965632-ef0c-421b-8baa-376558bd9501" />
 
 
 
