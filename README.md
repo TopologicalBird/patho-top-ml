@@ -42,7 +42,7 @@ TDA calculation: Python 3.10.12
 
 CONCH and UNI calculation, Evaluation: Python 3.10.17
 
-TDA software: [HomCloud](https://homcloud.dev/index.en.html), [Persim](https://persim.scikit-tda.org/en/latest)
+TDA software: [HomCloud](https://homcloud.dev/index.en.html) 4.6.0, [Persim](https://persim.scikit-tda.org/en/latest) 0.3.7.
 
 
 
