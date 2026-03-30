@@ -32,9 +32,7 @@ Supplementary figures and legends can be found [here](figures/).
 
 Gastric cancer images are taken from [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/tcga).
 
-20–40 square-shaped gastric cancer patches were taken from each sample. They were all resized to $256\times 256$ and put into our analysis.
-
-At this pixel size, the image resolution is 1.76mpp.
+20–40 square-shaped gastric cancer patches were taken from each sample. They were all resized to $256\times 256$ and put into our analysis. At this pixel size, the image resolution is 1.76mpp.
 
 We use 7-class histological classifications (tub1, tub2, por1, por2, sig, muc, pap).
 <img width="50%" alt="image" src="https://github.com/user-attachments/assets/ae965632-ef0c-421b-8baa-376558bd9501" />
