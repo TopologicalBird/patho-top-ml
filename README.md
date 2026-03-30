@@ -28,7 +28,10 @@ This code includes
 ## Supplementary Figures and Information
 Supplementary figures and legends can be found [here](figures/). 
 
-Gastric cancer images are taken from [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/tcga)
+Gastric cancer images are taken from [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/tcga).
+
+20--40 square-shaped gastric cancer patches were taken from each sample. They were all resized to $256\times 256$ and put into our analysis.
+
 ToDO: Images are from TCGA. Resized to 256. Resolution...
 
 Some statistics. Label proportion. Train-val split...
