@@ -52,7 +52,7 @@ Paper for this repository is currently under review. Meanwhile, please cite this
 @online{oda2026patho,
   author = {Oda, H. and Sano, K. and Ochi, M. and Onoyama, T. and Komura, D. and Ishikawa, S.},
   title = {Pathology image analysis with topological data analysis and foundation models},
-  url = {[https://github.com](https://github.com/TopologicalBird/patho-top-ml)},
+  url = {https://github.com/TopologicalBird/patho-top-ml},
   year = {2026}
 }
 ``` 
