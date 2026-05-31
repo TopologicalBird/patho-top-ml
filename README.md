@@ -44,8 +44,12 @@ CONCH and UNI calculation, Evaluation: Python 3.10.17
 
 TDA software: [HomCloud](https://homcloud.dev/index.en.html) 4.6.0, [Persim](https://persim.scikit-tda.org/en/latest) 0.3.7.
 
+
+### Citation
+Paper for this repository is currently under review. Meanwhile, please cite this as follows.
+
 ```bibtex
-@software{oda2026patho,
+@online{oda2026patho,
   author = {Oda, H. and Sano, K. and Ochi, M. and Onoyama, T. and Komura, D. and Ishikawa, S.},
   title = {Pathology image analysis with topological data analysis and foundation models},
   url = {[https://github.com](https://github.com/TopologicalBird/patho-top-ml)},
