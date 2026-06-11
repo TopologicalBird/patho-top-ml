@@ -25,6 +25,13 @@ This code includes
 - Pairwise trustworthiness calculation for outputs with different train subset configurations
 - Stable point selection using pairwise trustworthiness
 
+### [Revision.ipynb](codes/Revision.ipynb)
+Codes associated to the revised version.
+
+Updates are as follows
+- Omitted UMAP to directly analyze feature extraction methods
+- Different TOP method parameters
+
 ## Supplementary Figures and Information
 Supplementary figures and legends can be found [here](figures/). 
 
